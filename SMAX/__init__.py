@@ -1,0 +1,1 @@
+"""SMAX family adapter."""
